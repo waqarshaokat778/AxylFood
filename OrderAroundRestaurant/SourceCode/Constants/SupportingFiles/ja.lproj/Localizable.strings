@@ -1,0 +1,124 @@
+/* 
+  Localizable.strings
+  OrderAroundRestaurant
+
+  Created by Thiru on 25/04/19.
+  Copyright © 2019 CSS. All rights reserved.
+*/
+
+
+
+"localize.password" = "パスワード";
+"localize.donthanve" = "アカウントを持っていません";
+"localize.register" = "登録";
+"localize.login" = "ログイン";
+
+"localize.Home" = "ホーム";
+"localize.Revenue" = "収入";
+"localize.Dishes" = "お料理";
+"localize.Profile" = "プロフィール";
+
+"localize.history" = "歴史";
+"localize.editPartner" = "レストランを編集";
+"localize.edittiming" = "タイミングを編集";
+"localize.Deliveries" = "配達";
+"localize.changePassword" = "パスワードを変更する";
+"localize.logout" = "ログアウト";
+"localize.deleteAccount" = "アカウントを削除する";
+"localize.deleteAccountDescr" = "アカウントを削除してよろしいですか";
+"localize.logoutDescr" = "本当にログアウトしますか";
+
+"localize.waiting" = "今後の課題を待つ";
+
+"localize.totalRevenue" = "総収入";
+"localize.orderReceived" = "ご注文承りました";
+"localize.orderDelivered" = "配送された注文";
+"localize.todayEarnings" = "今日の収益";
+"localize.monthlyEarnings" = "月々の収益";
+"localize.orderCancelled" = "キャンセル済み";
+
+"localize.addons" = "アドオン";
+"localize.category" = "カテゴリー";
+"localize.product" = "製品";
+
+"localize.addonsList" = "アドオンリスト";
+"localize.addAddons" = "アドオンを追加する";
+
+"localize.categoryList" = "カテゴリー一覧";
+"localize.addCategories" = "カテゴリを追加";
+
+"localize.productList" = "製品リスト";
+"localize.addProducts" = "商品を追加する";
+
+"localize.createProduct" = "商品を作成する";
+"localize.name" = "名";
+"localize.description" = "説明";
+"localize.productCusine" = "製品の料理";
+"localize.status" = "状態";
+"localize.productOrder" = "製品の注文";
+"localize.Category" = "カテゴリー";
+"localize.imageUpload" = "画像のアップロード";
+"localize.Isfeatured" = "この特集商品はありますか？";
+"localize.yes" = "はい";
+"localize.no" = "いいえ";
+"localize.next" = "次";
+"localize.price" = "価格";
+"localize.discountType" = "割引タイプ";
+"localize.discount" = "ディスカウント";
+"localize.selectAddons" = "アドオンを選択";
+"localize.categoryOrder" = "カテゴリー順";
+"localize.save" = "保存する";
+
+"localize.editPartner" = "レストランを編集";
+"localize.editTiming" = "タイミングを編集";
+"localize.everyday" = "毎日";
+"localize.openTime" = "オープンタイム";
+"localize.closeTime" = "クローズタイム";
+
+"localize.deleteCategory" = "いいえdeviceTypeカテゴリを削除してもよろしいですか？";
+"localize.deleteProduct" = "本当にProductを削除しますか？";
+
+"localize.ongoingOrder" = "継続中の注文";
+"localize.pastOrder" = "過去の注文";
+"localize.cancelOrder" = "注文をキャンセル";
+
+// "localize.deleteAccountDescr" = "Are you sure want to delete your account?"
+"localize.appName" = "レストラン周辺";
+// "localize.logout" = "Are you sure want to logout?"
+
+"localize.OK" = "OK";
+"localize.countryNumber" = "+91";
+"localize.countryCode" = "IN";
+
+"localize.subTotal" = "小計";
+"localize.deliverycharge" = "配送料";
+"localize.tax" = "税金";
+"localize.payable" = "買掛金";
+"localize.total" = "合計";
+
+"localize.emailAddr" = "電子メールアドレス";
+"localize.cuisine" = "料理";
+"localize.phonenumber" = "電話番号";
+"localize.shopbannerImage" = "ショップバナー画像";
+"localize.isthisveg" = "これは純粋なベジタリアンレストランですか？";
+"localize.minAmount" = "最小額";
+"localize.offerinper" = "パーセンテージで提供";
+"localize.maxdelivery" = "最大配達時間（分）";
+"localize.address" = "住所";
+"localize.landmark" = "ランドマーク";
+
+
+"localize.currentPassword" = "現在のパスワード";
+"localize.newPassword" = "新しいパスワード";
+"localize.confirmPassword" = "パスワードを認証する";
+
+"localize.filterby" = "で絞り込む";
+"localize.deliveryPer" = "配達人";
+"localize.selectdeliveryperson" = "配達員を選択";
+"localize.All" = "すべて";
+"localize.Completed" = "完了しました";
+"localize.Cancelled" = "キャンセル";
+"localize.from" = "から";
+"localize.to" = "に";
+"localize.filter" = "フィルタ";
+"localize.alreadyRegister" = "すでに登録？ログイン";

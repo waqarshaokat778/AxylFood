@@ -1,0 +1,281 @@
+/* 
+  Localizable.strings
+  OrderAroundRestaurant
+
+  Created by Thiru on 25/04/19.
+  Copyright © 2019 CSS.All rights reserved.
+*/
+
+
+"localize.password" = "Password";
+"localize.donthanve" = "Don't have an account.";
+"localize.register" = "Register";
+"localize.login" = "Login";
+
+"localize.Home" = "Home";
+"localize.Revenue" = "Revenue";
+"localize.Dishes" = "Dishes";
+"localize.Profile" = "Profile";
+"localize.enterDeliveryTime" = "Enter the Delivery time";
+"localize.enterOrderPreparationTime" = "Enter the Order preparation time";
+"localize.history" = "History";
+"localize.editPartner" = "Edit Partner";
+"localize.edittiming" = "Edit Timing";
+"localize.Deliveries" = "Deliveries";
+"localize.changePassword" = "Change Password";
+"localize.logout" = "Logout";
+"localize.deleteAccount" = "Delete Account";
+"localize.deleteAccountDescr" = "Are you sure want to delete your account?";
+"localize.logoutDescr" = "Are you sure want to logout?";
+
+"localize.waiting" = "WAITING FOR THE UPCOMING TASK";
+
+"localize.totalRevenue" = "Total Revenue";
+"localize.orderReceived" = "Order Received";
+"localize.orderDelivered" = "Order Delivered";
+"localize.todayEarnings" = "Today Earnings";
+"localize.monthlyEarnings" = "Monthly Earnings";
+"localize.orderCancelled" = "Ordered Cancelled";
+
+"localize.addons" = "ADDONS";
+"localize.category" = "CATEGORY";
+"localize.product" = "PRODUCT";
+
+"localize.addonsList" = "Addons List";
+"localize.addAddons" = "Add Addons";
+
+"localize.categoryList" = "Category List";
+"localize.addCategories" = "Add Categories";
+
+"localize.productList" = "Product List";
+"localize.addProducts" = "Add Products";
+
+"localize.createProduct" = "Create Product";
+"localize.name" = "Name";
+"localize.description" = "Description";
+"localize.productCusine" = "Product Cusine";
+"localize.status" = "Status";
+"localize.productOrder" = "Product Order";
+"localize.Category" = "Category";
+"localize.imageUpload" = "Image Upload";
+"localize.Isfeatured" = "Is this featured product?";
+"localize.yes" = "YES";
+"localize.no" = "NO";
+"localize.next" = "Next";
+"localize.price" = "Price";
+"localize.discountType" = "Discount Type";
+"localize.discount" = "Discount";
+"localize.selectAddons" = "Select Addons";
+"localize.categoryOrder" = "Category Order";
+"localize.save" = "Save";
+
+"localize.editPartner" = "Edit Partner";
+"localize.editTiming" = "Edit Timing";
+"localize.everyday" = "Everyday";
+"localize.openTime" = "Open Time";
+"localize.closeTime" = "Close Time";
+
+"localize.deleteCategory" = "Are you sure want to delete Category?";
+"localize.deleteProduct" = "Are you sure want to delete Product?";
+
+"localize.ongoingOrder" = "Ongoing Orders";
+"localize.pastOrder" = "Past Orders";
+"localize.cancelOrder" = "Cancel Orders";
+
+// "localize.deleteAccountDescr" = "Are you sure want to delete your account?"
+"localize.appName" = "PartnerAround";
+// "localize.logout" = "Are you sure want to logout?"
+
+"localize.OK" = "OK";
+"localize.countryNumber" = "+91";
+"localize.countryCode" = "IN";
+"localize.accept" = "Accept";
+"localize.cancel" = "Cancel";
+
+"localize.subTotal" = "Sub Total";
+"localize.deliverycharge" = "Delivery Charges";
+"localize.tax" = "Tax";
+"localize.payable" = "Payable";
+"localize.total" = "Total";
+
+"localize.emailAddr" = "Email Address";
+"localize.cuisine" = "Cuisine";
+"localize.phonenumber" = "Phone Number";
+"localize.shopbannerImage" = "Shop banner image";
+"localize.isthisveg" = "Is this a pure veg Partner?";
+"localize.minAmount" = "Min Amount";
+"localize.offerinper" = "Offer in Percentage";
+"localize.maxdelivery" = "Maximum Delivery Time (Mins)";
+"localize.address" = "Address";
+"localize.landmark" = "Landmark";
+
+
+"localize.currentPassword" = "Current Password";
+"localize.newPassword" = "New Password";
+"localize.confirmPassword" = "Confirm Password";
+
+"localize.filterby" = "Filter By";
+"localize.deliveryPer" = "Delivery Person";
+"localize.selectdeliveryperson" = "Select Delivery Person";
+"localize.All" = "All";
+"localize.Completed" = "Completed";
+"localize.Cancelled" = "Cancelled";
+"localize.from" = "from";
+"localize.to" = "to";
+"localize.filter" = "Filter";
+"localize.alreadyRegister" = "Already Registered? Login";
+"localize.french" = "French";
+"localize.ChangeLanguage" = "Change Language";
+"localize.English" = "English";
+
+
+ 
+
+"localize.serverError" = "The server could not be reached. \ n Try again";
+
+"localize.addCard" = "Add a card to continue ...";
+
+"localize.enterLocationName" = "Enter the name of the place";
+
+"localize.enterStreetNumber" = "Please enter the street number";
+
+"localize.enterColony" = "Please enter the colony";
+
+"localize.enterCity" = "Please enter the city";
+
+"localize.enterState" = "Please enter the status";
+
+ 
+
+"localize.enterCountry" = "Please enter the country";
+
+ 
+
+"localize.enterPostalCode" = "Please enter the postal code";
+
+ 
+
+"localize.enterName" = "Please enter a name";
+
+ 
+
+"localize.enterMobile" = "Please enter a mobile number";
+
+ 
+
+"localize.enterEmail" = "Please enter your email address";
+
+ 
+
+"localize.enterValidEmail" = "Please enter a valid email.";
+
+ 
+
+"localize.enterPassword" = "Please enter the password";
+
+ 
+
+"localize.enterDescription" = "Please enter the description";
+
+ 
+
+"localize.enterStatus" = "Please select the status";
+
+"localize.enterDetailsToRegister" = "Enter the Details to register";
+
+"localize.enterCaetgoryOrder" = "Please enter the category command";
+
+ 
+
+"localize.enterUploadImg" = "Please download the image";
+
+
+ 
+
+"localize.enterFeatureUploadImg" = "Please download the feature image";
+
+ 
+
+"localize.enterproductOrder" = "Please enter the product order";
+
+ 
+
+"localize.enterFeatureProduct" = "Please choose a featured product";
+
+ 
+
+"localize.enterProductCusine" = "Please select the product Cusine";
+
+ 
+
+"localize.enterAddons" = "Please select additional modules";
+
+ 
+
+"localize.enterPrice" = "Please enter the price";
+
+ 
+
+"localize.enterDiscount" = "Please enter a discount";
+
+ 
+
+"localize.enterDiscountType" = "Please choose the type of discount";
+
+ 
+
+ 
+
+ 
+
+ 
+
+"localize.passwordlength" = "The password must be at least 6 characters long.";
+
+ 
+
+"localize.enterNewPassword" = "Please enter a new password.";
+
+ 
+
+ 
+
+"localize.enterCurrentPassword" = "Enter the current password.";
+
+ 
+
+"localize.enterConfirmPassword" = "Enter Confirm Password.";
+
+ 
+
+"localize.enterConfirmNewPassword" = "Enter Confirm new password.";
+
+ 
+
+"localize.currentPasswordIsSame" = "The current password and the new password are the same.";
+
+ 
+
+"localize.newPasswordDonotMatch" = "New password and confirmation of new password do not match.";
+
+ 
+
+"localize.enterValidAmount" = "Enter a valid amount";
+
+ 
+
+"localize.enterFirstName" = "Enter your first name";
+
+ 
+
+"localize.enterLastName" = "Enter your first name";
+
+ 
+
+"localize.enterOldPassword" = "Enter the old password";
+
+ 
+
+ 
+
+"localize.enterValidCurrentPassword" = "This password is incorrect.";
